@@ -3,7 +3,7 @@ Codepath week 10 labs and assignment.
 
 ## LAB
 
-Milestone 1: Here I created a fake email guccim4200@gmail.com and sent there a phishing email using SET.
+Milestone 1: Here I created a fake email guccim4200@gmail.com and sent it a phishing email using SET.
 
 <img src="https://github.com/LunchBox1/Week-10-Lab-And-Assignment/blob/master/Phishing%20Email.JPG" width="800">
 
